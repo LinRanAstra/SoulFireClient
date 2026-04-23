@@ -150,20 +150,20 @@
       "openButton": "配置账号",
       "pageTitle": "{{name}} - {{page}} 设置",
       "noSettings": "此页面暂无可用设置",
-      "search": "Search settings",
-      "overrides": "Overrides",
-      "allSettings": "All settings",
-      "noOverrides": "This bot does not have any explicit overrides yet.",
-      "noOverridesMatching": "No overrides match this search.",
-      "noOverridesHelp": "Open All settings to inherit values or create the first bot-specific override.",
-      "tryDifferentSearch": "Try a different search term.",
-      "openAllSettings": "Open all settings",
-      "selectPage": "Select a settings page",
-      "noSearchResults": "No settings match this search.",
-      "matchesInheritedValue": "Matches inherited value",
-      "instanceValue": "Instance value",
-      "defaultValue": "Default value",
-      "resetOverride": "Reset override"
+      "search": "搜索设置",
+      "overrides": "覆盖",
+      "allSettings": "所有设置",
+      "noOverrides": "此机器人还没有任何明确的覆盖。",
+      "noOverridesMatching": "没有匹配此搜索的覆盖。",
+      "noOverridesHelp": "打开所有设置以继承值或创建第一个针对机器人的覆盖。",
+      "tryDifferentSearch": "尝试一个不同的搜索词。",
+      "openAllSettings": "打开所有设置",
+      "selectPage": "选择一个设置页面",
+      "noSearchResults": "没有匹配此搜索的设置。",
+      "matchesInheritedValue": "匹配继承的值",
+      "instanceValue": "实例值",
+      "defaultValue": "默认值",
+      "resetOverride": "重置覆盖"
     },
     "deviceCodeConfirmDialog": {
       "title": "设备代码认证",
@@ -179,7 +179,7 @@
       "urlLabel": "前往"
     },
     "ravealts": {
-      "button": "Ravealts",
+      "button": "拉瓦尔茨州",
       "title": "通过 Ravealts 购买账户",
       "description": "使用您的 Ravealts API 密钥购买 Minecraft 账户。",
       "apiKeyLabel": "API 密钥",
@@ -247,10 +247,10 @@
     "notJoined": "未加入",
     "backToBots": "返回机器人列表",
     "tabs": {
-      "overview": "Overview",
-      "inventory": "Inventory",
-      "controls": "Controls",
-      "terminal": "Terminal"
+      "overview": "概览",
+      "inventory": "库存",
+      "controls": "控件",
+      "terminal": "终端"
     },
     "comingSoon": "即将上线",
     "terminalPanel": {
@@ -387,94 +387,94 @@
       "targetPlaceholder": "ender_pearl"
     },
     "filters": {
-      "searchBots": "Search bots...",
-      "searchClaims": "Search claims...",
-      "noBotsMatchTitle": "No bots match the current filters.",
-      "noBotsMatchDescription": "Adjust or clear the current filters to review the full automation roster."
+      "searchBots": "搜索机器人...",
+      "searchClaims": "搜索申请...",
+      "noBotsMatchTitle": "没有匹配当前筛选器的机器人。",
+      "noBotsMatchDescription": "调整或清除当前过滤器以审查整个自动化名册。"
     },
     "attention": {
-      "empty": "No bots currently look stalled or degraded."
+      "empty": "目前没有机器人看起来已经停顿或退化。"
     },
     "memory": {
-      "noBots": "No automation bots are available for memory inspection.",
-      "blocks": "Blocks",
-      "noBlocks": "No remembered blocks in this snapshot.",
-      "containers": "Containers",
-      "noContainers": "No remembered containers in this snapshot.",
-      "entities": "Entities",
-      "noEntities": "No remembered entities in this snapshot.",
-      "droppedItems": "Dropped Items",
-      "noDroppedItems": "No remembered dropped items in this snapshot.",
-      "unreachablePositions": "Unreachable Positions",
-      "noUnreachablePositions": "No unreachable positions in this snapshot."
+      "noBots": "没有自动化机器人可供内存检查。",
+      "blocks": "块",
+      "noBlocks": "在这个快照中没有记住的块。",
+      "containers": "容器",
+      "noContainers": "在这个快照中没有记住的容器。",
+      "entities": "实体",
+      "noEntities": "在这个快照中没有记住的实体。",
+      "droppedItems": "丢弃的项目",
+      "noDroppedItems": "在这个快照中没有已记住的项目。",
+      "unreachablePositions": "无法到达位置",
+      "noUnreachablePositions": "在这个快照中没有无法到达的位置。"
     },
     "coordination": {
-      "sharedBlocks": "Shared Blocks",
-      "noBlockHints": "No shared block hints yet.",
-      "eyeSamples": "Eye Samples",
-      "noEyeSamples": "No eye samples recorded."
+      "sharedBlocks": "共享块",
+      "noBlockHints": "尚无共享区块提示。",
+      "eyeSamples": "眼睛示例",
+      "noEyeSamples": "没有记录眼睛样品。"
     }
   },
   "metrics": {
     "empty": {
-      "noData": "No data"
+      "noData": "无数据"
     },
     "summary": {
-      "online": "Online",
+      "online": "在线",
       "packetsPerSecond": "Pkt/s",
-      "traffic": "Traffic",
-      "health": "Health",
-      "tick": "Tick"
+      "traffic": "流量",
+      "health": "保健",
+      "tick": "刻度"
     },
     "botsOnline": {
-      "title": "Bots Online",
-      "online": "Online",
-      "total": "Total"
+      "title": "机器人在线",
+      "online": "在线",
+      "total": "总计"
     },
     "packets": {
-      "title": "Packets / Second",
-      "sent": "Sent/s",
-      "received": "Recv/s"
+      "title": "数据包 / 秒",
+      "sent": "已发送/秒",
+      "received": "回收/秒"
     },
     "bandwidth": {
-      "title": "Bandwidth",
-      "upload": "Upload",
-      "download": "Download"
+      "title": "带宽",
+      "upload": "上传",
+      "download": "下载"
     },
     "tick": {
-      "title": "Tick Duration",
-      "avg": "Avg (ms)",
-      "max": "Max (ms)"
+      "title": "时长",
+      "avg": "平均(毫秒)",
+      "max": "最大 (ms)"
     },
     "healthFood": {
-      "title": "Health / Food",
-      "health": "Avg Health",
-      "food": "Avg Food"
+      "title": "健康/食物：",
+      "health": "平均生命值",
+      "food": "平均食物数"
     },
     "chunksEntities": {
-      "title": "Chunks / Entities",
-      "chunks": "Chunks",
-      "entities": "Entities"
+      "title": "区块/实体",
+      "chunks": "模板片段",
+      "entities": "实体"
     },
     "connections": {
-      "title": "Connection Events",
-      "connections": "Connections",
-      "disconnections": "Disconnections"
+      "title": "连接事件",
+      "connections": "连接",
+      "disconnections": "断开连接"
     },
     "healthDistribution": {
-      "title": "Health Distribution",
-      "bots": "Bots"
+      "title": "健康分布情况",
+      "bots": "靴子"
     },
     "dimensions": {
-      "title": "Dimensions",
-      "bots": "Bots"
+      "title": "尺寸",
+      "bots": "靴子"
     },
     "gameModes": {
-      "title": "Game Modes",
-      "bots": "Bots"
+      "title": "游戏模式",
+      "bots": "靴子"
     },
     "positions": {
-      "title": "Bot Positions (XZ)",
+      "title": "机器人位置 (XZ)",
       "bot": "Bot"
     }
   },
@@ -546,7 +546,7 @@
         "pause": "暂停",
         "pauseTooltip": "暂停脚本执行",
         "unsaved": "未保存",
-        "unsavedChanges": "Unsaved changes",
+        "unsavedChanges": "未保存的更改",
         "clearCanvas": "清除画布",
         "zoomIn": "放大",
         "zoomOut": "缩小",
@@ -580,62 +580,62 @@
         "delete": "删除"
       },
       "node": {
-        "expand": "Expand node",
-        "collapse": "Collapse node"
+        "expand": "展开节点",
+        "collapse": "折叠节点"
       },
       "debug": {
-        "copyValue": "Copy current value",
-        "clearHistory": "Clear history"
+        "copyValue": "复制当前值",
+        "clearHistory": "清除历史记录"
       },
       "edge": {
-        "direction": "Edge direction"
+        "direction": "边缘方向"
       },
       "note": {
-        "placeholder": "Write a note..."
+        "placeholder": "写笔记..."
       },
       "complexity": {
-        "title": "Script complexity score"
+        "title": "脚本复杂分数"
       },
       "group": {
-        "returnToRoot": "Return to root (Tab)"
+        "returnToRoot": "返回根目录(Tab)"
       },
       "quickAdd": {
-        "menuLabel": "Quick add node menu",
-        "searchPlaceholder": "Search nodes..."
+        "menuLabel": "快速添加节点菜单",
+        "searchPlaceholder": "搜索节点..."
       },
       "diff": {
-        "tooltip": "Review changes"
+        "tooltip": "审核更改"
       },
       "dryRun": {
-        "tooltip": "Dry Run",
-        "title": "Dry Run Script",
-        "description": "Run a script from a selected trigger with mock inputs.",
-        "triggerNode": "Trigger Node",
-        "selectTrigger": "Select a trigger...",
-        "triggerDescription": "Pick the trigger node to execute with mock input values.",
-        "mockInputs": "Mock Inputs",
+        "tooltip": "干路运行",
+        "title": "干运行脚本",
+        "description": "从选定的触发器中运行一个带有模拟输入的脚本。",
+        "triggerNode": "触发节点",
+        "selectTrigger": "选择一个触发器...",
+        "triggerDescription": "选择触发节点来执行模拟输入值。",
+        "mockInputs": "模拟输入",
         "valuePlaceholder": "{{type}} value",
-        "start": "Start Dry Run"
+        "start": "开始干燥运行"
       },
       "quotas": {
         "tooltip": "Script Quotas",
         "title": "Script Quotas",
-        "description": "Configure resource limits for this script. Empty fields use server defaults.",
-        "maxExecutionCount": "Max Execution Count",
+        "description": "配置此脚本的资源限制。空字段使用服务器默认值。",
+        "maxExecutionCount": "最大执行次数",
         "maxExecutionCountPlaceholder": "100000",
-        "maxExecutionCountDescription": "Maximum node executions per trigger invocation",
-        "maxExecutionTime": "Max Execution Time (ms)",
+        "maxExecutionCountDescription": "每个触发点的最大节点执行",
+        "maxExecutionTime": "最大执行时间 (ms)",
         "maxExecutionTimePlaceholder": "30000",
-        "maxExecutionTimeDescription": "Maximum wall-clock time per trigger execution",
-        "maxConcurrentTriggers": "Max Concurrent Triggers",
+        "maxExecutionTimeDescription": "每个触发器执行的最大Wall时钟时间",
+        "maxConcurrentTriggers": "最大并发触发器",
         "maxConcurrentTriggersPlaceholder": "1",
-        "maxConcurrentTriggersDescription": "Maximum concurrent trigger invocations",
-        "maxStateStoreEntries": "Max State Store Entries",
-        "maxStateStoreEntriesPlaceholder": "Unlimited",
-        "maxStateStoreEntriesDescription": "Maximum entries in the script state store",
-        "disableTimeouts": "Disable Timeouts",
-        "disableTimeoutsDescription": "Disables per-node and data edge timeouts",
-        "save": "Save Quotas"
+        "maxConcurrentTriggersDescription": "最大并行触发器调用数",
+        "maxStateStoreEntries": "最大状态商店条目",
+        "maxStateStoreEntriesPlaceholder": "无限制",
+        "maxStateStoreEntriesDescription": "脚本状态存储中最大条目数",
+        "disableTimeouts": "禁用超时",
+        "disableTimeoutsDescription": "禁用每个节点和数据边缘超时",
+        "save": "保存配额信息"
       }
     }
   }
