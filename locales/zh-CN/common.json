@@ -46,6 +46,13 @@
       },
       "close": "关闭"
     },
+    "support": {
+      "title": "Support SoulFire",
+      "description": "SoulFire is free and open-source, built with love by the community.",
+      "body": "If SoulFire has been useful to you, please consider supporting the project. Your contribution helps cover server costs, fund development, and keep SoulFire free for everyone.",
+      "dismiss": "Maybe later",
+      "action": "Support SoulFire"
+    },
     "createInstance": {
       "title": "创建一个新实例",
       "description": "实例需要一个名字来区分它们，它可以是你想要的任何名字，例如“Minecraft Bot”。",
@@ -230,6 +237,9 @@
       "add": "添加",
       "remove": "删除"
     },
+    "combo": {
+      "searchPlaceholder": "Search value..."
+    },
     "invalidNumberToast": {
       "title": "无效数字！",
       "description": "值必须介于 {{min}} 和 {{max}} 之间"
@@ -253,6 +263,23 @@
   },
   "uiSidebar": {
     "toggle": "切换侧边栏"
+  },
+  "window": {
+    "minimize": "Minimize",
+    "minimizeLabel": "Minimize window",
+    "maximize": "Maximize",
+    "maximizeLabel": "Maximize window",
+    "restore": "Restore",
+    "restoreLabel": "Restore window",
+    "close": "Close",
+    "closeLabel": "Close window",
+    "back": "Back",
+    "backLabel": "Go back",
+    "forward": "Forward",
+    "forwardLabel": "Go forward"
+  },
+  "infoButton": {
+    "showInfo": "Show info"
   },
   "castMenu": {
     "title": "投放",
@@ -334,6 +361,7 @@
     },
     "configDir": "配置目录",
     "dataDir": "数据目录",
+    "supportSoulFire": "Support SoulFire",
     "about": "关于",
     "logOut": "退出登录",
     "logOutToast": {
@@ -342,7 +370,7 @@
       "error": "登出失败"
     },
     "exit": "退出",
-    "stopImpersonating": "",
+    "stopImpersonating": "Stop impersonating",
     "helpTranslate": "协助翻译 SoulFire"
   },
   "sidebar": {
@@ -448,7 +476,7 @@
     "user": "用户",
     "action": "操作",
     "type": "类型",
-    "timestamp": "",
+    "timestamp": "Timestamp",
     "searchUsers": "搜索用户...",
     "searchTimestamps": "搜索时间戳...",
     "executedCommand": "执行的命令：{{data}}",
