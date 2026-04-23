@@ -47,11 +47,11 @@
       "close": "关闭"
     },
     "support": {
-      "title": "Support SoulFire",
-      "description": "SoulFire is free and open-source, built with love by the community.",
-      "body": "If SoulFire has been useful to you, please consider supporting the project. Your contribution helps cover server costs, fund development, and keep SoulFire free for everyone.",
-      "dismiss": "Maybe later",
-      "action": "Support SoulFire"
+      "title": "支持 SoulFire",
+      "description": "灵魂火是自由和开源的，由社区爱建立。",
+      "body": "如果SoulFire 对您有用，请考虑支持该项目。 您的贡献有助于支付服务器费用，为开发提供资金，并为每个人保持无灵魂。",
+      "dismiss": "稍后再说",
+      "action": "支持 SoulFire"
     },
     "createInstance": {
       "title": "创建一个新实例",
@@ -158,7 +158,7 @@
     "selectRow": "选择行",
     "selected": "已选择 {{count}} 项",
     "clearSelection": "清除选择",
-    "escape": "Esc",
+    "escape": "埃斯克文",
     "filter": "筛选",
     "filters": "筛选器",
     "noFiltersApplied": "未应用筛选器",
@@ -174,12 +174,12 @@
     "enterValue": "输入一个值...",
     "enterValueShort": "输入值...",
     "true": "真",
-    "false": "假",
+    "false": "False",
     "selectOption": "选择选项...",
     "selectOptions": "选择多个选项...",
     "searchOptions": "搜索选项...",
     "noOptionsFound": "未找到选项。",
-    "pickDateShort": "选日期...",
+    "pickDateShort": "选择日期...",
     "typeToFilter": "输入以添加筛选器...",
     "filterByValue": "按“{{value}}”筛选",
     "view": "查看",
@@ -238,7 +238,7 @@
       "remove": "删除"
     },
     "combo": {
-      "searchPlaceholder": "Search value..."
+      "searchPlaceholder": "搜索值..."
     },
     "invalidNumberToast": {
       "title": "无效数字！",
@@ -266,20 +266,20 @@
   },
   "window": {
     "minimize": "Minimize",
-    "minimizeLabel": "Minimize window",
+    "minimizeLabel": "最小化窗口",
     "maximize": "Maximize",
-    "maximizeLabel": "Maximize window",
-    "restore": "Restore",
-    "restoreLabel": "Restore window",
-    "close": "Close",
-    "closeLabel": "Close window",
-    "back": "Back",
-    "backLabel": "Go back",
-    "forward": "Forward",
-    "forwardLabel": "Go forward"
+    "maximizeLabel": "最大化窗口",
+    "restore": "恢复",
+    "restoreLabel": "还原窗口",
+    "close": "关闭",
+    "closeLabel": "关闭窗口",
+    "back": "后退",
+    "backLabel": "后退",
+    "forward": "转发方式",
+    "forwardLabel": "向前移动"
   },
   "infoButton": {
-    "showInfo": "Show info"
+    "showInfo": "显示信息"
   },
   "castMenu": {
     "title": "投放",
@@ -361,7 +361,7 @@
     },
     "configDir": "配置目录",
     "dataDir": "数据目录",
-    "supportSoulFire": "Support SoulFire",
+    "supportSoulFire": "支持 SoulFire",
     "about": "关于",
     "logOut": "退出登录",
     "logOutToast": {
@@ -370,7 +370,7 @@
       "error": "登出失败"
     },
     "exit": "退出",
-    "stopImpersonating": "Stop impersonating",
+    "stopImpersonating": "停止模拟中",
     "helpTranslate": "协助翻译 SoulFire"
   },
   "sidebar": {
@@ -476,7 +476,7 @@
     "user": "用户",
     "action": "操作",
     "type": "类型",
-    "timestamp": "Timestamp",
+    "timestamp": "时间戳",
     "searchUsers": "搜索用户...",
     "searchTimestamps": "搜索时间戳...",
     "executedCommand": "执行的命令：{{data}}",
