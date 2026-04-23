@@ -46,6 +46,13 @@
       },
       "close": "Sluiten"
     },
+    "support": {
+      "title": "Support SoulFire",
+      "description": "SoulFire is free and open-source, built with love by the community.",
+      "body": "If SoulFire has been useful to you, please consider supporting the project. Your contribution helps cover server costs, fund development, and keep SoulFire free for everyone.",
+      "dismiss": "Maybe later",
+      "action": "Support SoulFire"
+    },
     "createInstance": {
       "title": "Een nieuwe instantie aanmaken",
       "description": "Instanties hebben een vriendelijke naam nodig zodat je ze van elkaar kunt onderscheiden. Dit kan elke naam zijn die je wilt, bijvoorbeeld \"Mijn Minecraft Bot\".",
@@ -230,6 +237,9 @@
       "add": "Toevoegen",
       "remove": "Verwijderen"
     },
+    "combo": {
+      "searchPlaceholder": "Search value..."
+    },
     "invalidNumberToast": {
       "title": "Ongeldig nummer!",
       "description": "De waarde moet tussen {{min}} en {{max}} liggen"
@@ -253,6 +263,23 @@
   },
   "uiSidebar": {
     "toggle": "Zijbalk wisselen"
+  },
+  "window": {
+    "minimize": "Minimize",
+    "minimizeLabel": "Minimize window",
+    "maximize": "Maximize",
+    "maximizeLabel": "Maximize window",
+    "restore": "Restore",
+    "restoreLabel": "Restore window",
+    "close": "Close",
+    "closeLabel": "Close window",
+    "back": "Back",
+    "backLabel": "Go back",
+    "forward": "Forward",
+    "forwardLabel": "Go forward"
+  },
+  "infoButton": {
+    "showInfo": "Show info"
   },
   "castMenu": {
     "title": "Casten",
@@ -334,6 +361,7 @@
     },
     "configDir": "Config-map",
     "dataDir": "Data-map",
+    "supportSoulFire": "Support SoulFire",
     "about": "Over",
     "logOut": "Uitloggen",
     "logOutToast": {
