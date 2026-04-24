@@ -248,8 +248,8 @@
     "backToBots": "返回机器人列表",
     "tabs": {
       "overview": "概览",
-      "inventory": "库存",
-      "controls": "控件",
+      "inventory": "背包",
+      "controls": "控制",
       "terminal": "终端"
     },
     "comingSoon": "即将上线",
@@ -447,7 +447,7 @@
       "max": "最大 (ms)"
     },
     "healthFood": {
-      "title": "健康/食物：",
+      "title": "生命值/饱和值",
       "health": "平均生命值",
       "food": "平均食物数"
     },
