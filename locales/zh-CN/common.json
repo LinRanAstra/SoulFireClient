@@ -48,8 +48,8 @@
     },
     "support": {
       "title": "支持 SoulFire",
-      "description": "灵魂火是自由和开源的，由社区爱建立。",
-      "body": "如果SoulFire 对您有用，请考虑支持该项目。 您的贡献有助于支付服务器费用，为开发提供资金，并为每个人保持无灵魂。",
+      "description": "SoulFire 是自由和开源的，由社区用爱心打造。",
+      "body": "如果 SoulFire 对您有用，请考虑支持该项目。您的贡献有助于支付服务器成本、资助开发并让 SoulFire 对所有人免费。",
       "dismiss": "稍后再说",
       "action": "支持 SoulFire"
     },
@@ -158,7 +158,7 @@
     "selectRow": "选择行",
     "selected": "已选择 {{count}} 项",
     "clearSelection": "清除选择",
-    "escape": "埃斯克文",
+    "escape": "Esc",
     "filter": "筛选",
     "filters": "筛选器",
     "noFiltersApplied": "未应用筛选器",
@@ -265,16 +265,16 @@
     "toggle": "切换侧边栏"
   },
   "window": {
-    "minimize": "Minimize",
+    "minimize": "最小化",
     "minimizeLabel": "最小化窗口",
-    "maximize": "Maximize",
+    "maximize": "最大化",
     "maximizeLabel": "最大化窗口",
-    "restore": "恢复",
+    "restore": "还原",
     "restoreLabel": "还原窗口",
     "close": "关闭",
     "closeLabel": "关闭窗口",
-    "back": "后退",
-    "backLabel": "后退",
+    "back": "返回",
+    "backLabel": "返回",
     "forward": "转发方式",
     "forwardLabel": "向前移动"
   },
