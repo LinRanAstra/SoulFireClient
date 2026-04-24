@@ -1,11 +1,11 @@
 {
   "overview": {
-    "welcome": "欢迎回来，{{name}} 🧙",
+    "welcome": "Welcome back, {{name}} 🧙",
     "serverMetrics": {
-      "sectionTitle": "服务器配置",
+      "sectionTitle": "Server Metrics",
       "summary": {
         "cpu": "CPU",
-        "heapUsed": "已用堆内存",
+        "heapUsed": "Heap Used",
         "threads": "Hilos",
         "botsOnline": "Bots en línea",
         "uptime": "Tiempo de actividad"
