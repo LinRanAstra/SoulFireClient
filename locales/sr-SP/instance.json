@@ -566,6 +566,7 @@
         "clearTitle": "Clear logs",
         "noLogs": "No logs yet. Run the script to see execution logs.",
         "entries_one": "{{count}} entry",
+        "entries_few": "{{count}} entries",
         "entries_other": "{{count}} entries"
       },
       "contextMenu": {

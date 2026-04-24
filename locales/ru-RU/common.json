@@ -46,6 +46,13 @@
       },
       "close": "Закрыть"
     },
+    "support": {
+      "title": "Support SoulFire",
+      "description": "SoulFire is free and open-source, built with love by the community.",
+      "body": "If SoulFire has been useful to you, please consider supporting the project. Your contribution helps cover server costs, fund development, and keep SoulFire free for everyone.",
+      "dismiss": "Maybe later",
+      "action": "Support SoulFire"
+    },
     "createInstance": {
       "title": "Создать новый экземпляр",
       "description": "Для экземпляров нужны дружелюбные имена, чтобы вы могли их различать. Это может быть любое имя, например, «Мой бот Minecraft».",
@@ -230,6 +237,9 @@
       "add": "Добавить",
       "remove": "Удалить"
     },
+    "combo": {
+      "searchPlaceholder": "Search value..."
+    },
     "invalidNumberToast": {
       "title": "Неверное число!",
       "description": "Значение должно быть от {{min}} до {{max}}"
@@ -253,6 +263,23 @@
   },
   "uiSidebar": {
     "toggle": "Переключить боковую панель"
+  },
+  "window": {
+    "minimize": "Minimize",
+    "minimizeLabel": "Minimize window",
+    "maximize": "Maximize",
+    "maximizeLabel": "Maximize window",
+    "restore": "Restore",
+    "restoreLabel": "Restore window",
+    "close": "Close",
+    "closeLabel": "Close window",
+    "back": "Back",
+    "backLabel": "Go back",
+    "forward": "Forward",
+    "forwardLabel": "Go forward"
+  },
+  "infoButton": {
+    "showInfo": "Show info"
   },
   "castMenu": {
     "title": "Транслировать экран",
@@ -334,6 +361,7 @@
     },
     "configDir": "Каталог с конфигурацией",
     "dataDir": "Каталог с данными",
+    "supportSoulFire": "Support SoulFire",
     "about": "О программе",
     "logOut": "Выйти",
     "logOutToast": {

@@ -34,7 +34,7 @@
       }
     },
     "usersChart": {
-      "title": "",
+      "title": "Total users on this server",
       "users": "Người dùng",
       "label": {
         "role": "Vai trò",
@@ -54,7 +54,7 @@
           "regex": "Tên người dùng phải viết thường, bắt đầu bằng ký tự chữ hoặc số, theo sau là các ký tự chữ, số hoặc dấu gạch ngang và kết thúc bằng ký tự chữ hoặc số.",
           "label": "Tên đăng nhập",
           "placeholder": "Nhập tên người dùng",
-          "description": ""
+          "description": "A unique username that identifies the user"
         },
         "email": {
           "label": "Email",
@@ -63,6 +63,7 @@
         },
         "role": {
           "label": "Vai trò",
+          "placeholder": "Select a role",
           "description": "Vai trò của người dùng. Quản trị viên có thể quản lý người dùng và tất cả các phiên bản. Người dùng chỉ được phép quản lý phiên bản của riêng mình.",
           "user": "Người dùng",
           "admin": "Quản trị viên"

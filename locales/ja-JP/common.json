@@ -46,6 +46,13 @@
       },
       "close": "閉じる"
     },
+    "support": {
+      "title": "Support SoulFire",
+      "description": "SoulFire is free and open-source, built with love by the community.",
+      "body": "If SoulFire has been useful to you, please consider supporting the project. Your contribution helps cover server costs, fund development, and keep SoulFire free for everyone.",
+      "dismiss": "Maybe later",
+      "action": "Support SoulFire"
+    },
     "createInstance": {
       "title": "新しいインスタンスを作成",
       "description": "インスタンスを区別するために、わかりやすい名前が必要です。どんな名前でも構いません。例：「マイMinecraftボット」",
@@ -230,6 +237,9 @@
       "add": "追加",
       "remove": "削除"
     },
+    "combo": {
+      "searchPlaceholder": "Search value..."
+    },
     "invalidNumberToast": {
       "title": "無効な数値です！",
       "description": "値は{{min}}〜{{max}}の間である必要があります"
@@ -253,6 +263,23 @@
   },
   "uiSidebar": {
     "toggle": "サイドバーの切り替え"
+  },
+  "window": {
+    "minimize": "Minimize",
+    "minimizeLabel": "Minimize window",
+    "maximize": "Maximize",
+    "maximizeLabel": "Maximize window",
+    "restore": "Restore",
+    "restoreLabel": "Restore window",
+    "close": "Close",
+    "closeLabel": "Close window",
+    "back": "Back",
+    "backLabel": "Go back",
+    "forward": "Forward",
+    "forwardLabel": "Go forward"
+  },
+  "infoButton": {
+    "showInfo": "Show info"
   },
   "castMenu": {
     "title": "キャスト",
@@ -334,6 +361,7 @@
     },
     "configDir": "設定ディレクトリ",
     "dataDir": "データディレクトリ",
+    "supportSoulFire": "Support SoulFire",
     "about": "情報",
     "logOut": "ログアウト",
     "logOutToast": {

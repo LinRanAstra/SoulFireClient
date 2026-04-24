@@ -1,11 +1,11 @@
 {
   "overview": {
-    "welcome": "Bienvenido/a de nuevo, {{name}}🧙",
+    "welcome": "欢迎回来，{{name}} 🧙",
     "serverMetrics": {
-      "sectionTitle": "Métricas del servidor",
+      "sectionTitle": "服务器配置",
       "summary": {
         "cpu": "CPU",
-        "heapUsed": "Heap usado",
+        "heapUsed": "已用堆内存",
         "threads": "Hilos",
         "botsOnline": "Bots en línea",
         "uptime": "Tiempo de actividad"
@@ -39,7 +39,7 @@
       "label": {
         "role": "Rol",
         "user": "Usuario",
-        "admin": "Admin",
+        "admin": "管理员",
         "other": "Otros"
       }
     }
@@ -63,9 +63,10 @@
         },
         "role": {
           "label": "Rol",
+          "placeholder": "选择一个角色",
           "description": "El rol del usuario; los administradores pueden administrar usuarios y todas las instancias, los usuarios solo pueden administrar sus propias instancias.",
           "user": "Usuario",
-          "admin": "Admin"
+          "admin": "管理员"
         }
       }
     },

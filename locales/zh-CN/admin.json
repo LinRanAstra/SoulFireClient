@@ -63,6 +63,7 @@
         },
         "role": {
           "label": "用户类型",
+          "placeholder": "Select a role",
           "description": "用户的角色。管理员可管理所有用户和实例，普通用户只能管理自己的实例。",
           "user": "用户",
           "admin": "管理员"
@@ -122,7 +123,7 @@
     "contextMenu": {
       "editUser": "编辑用户",
       "impersonate": "模拟登录",
-      "copyUserId": "复制用户ID"
+      "copyUserId": "复制用户 ID"
     }
   }
 }
